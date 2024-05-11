@@ -6,7 +6,7 @@ rem Browsers
 winget install --id=Mozilla.Firefox -e -h --scope "machine"
 
 
-rem LibreOffice, Notes
+rem Notes
 winget install --id=TheDocumentFoundation.LibreOffice -e -h --scope "machine"
 winget install --id=Obsidian.Obsidian -e -h --scope "machine"
 
