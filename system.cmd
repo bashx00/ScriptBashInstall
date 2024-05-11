@@ -5,11 +5,9 @@ winget install --id=VirusTotal.VirusTotalUploader -e -h --scope "machine"
 rem Browsers
 winget install --id=Mozilla.Firefox -e -h --scope "machine"
 
-
 rem LibreOffice, Obsidian, PDF, Notes
 winget install --id=TheDocumentFoundation.LibreOffice -e -h --scope "machine"
 winget install --id=Obsidian.Obsidian -e -h --scope "machine"
-
 
 rem Developments
 winget install --id=Git.Git -e -h --scope "machine"
